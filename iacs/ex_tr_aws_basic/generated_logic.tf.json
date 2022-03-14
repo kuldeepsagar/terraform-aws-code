@@ -26,7 +26,7 @@
         "aws_instance": [
             {
                 "foo": {
-                    "ami": "ami-005e54dee72cc1d00",
+                    "ami": "ami-0dfb4b2fe71065a95",
                     "instance_type": "t2.micro",
                     "tags": {
                         "Name": "KyniacAppServerInstance",
