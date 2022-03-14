@@ -51,7 +51,7 @@
                         "Name": "tf-example"
                     },
                     "vpc_id": "${aws_vpc.my_vpc.id}",
-                    "availability_zone": "us-west-2a"
+                    "availability_zone": "us-east-2a"
                 }
             }
         ]
