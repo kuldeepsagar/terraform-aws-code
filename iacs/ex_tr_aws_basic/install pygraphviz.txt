@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/40809758/howto-install-pygraphviz-on-windows-10-64bit/42059133
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygraphviz
+https://stackoverflow.com/questions/4571067/installing-pygraphviz-on-windows?rq=1
+
+Steps:
+1. Download graphviz-2.38.msi from https://graphviz.gitlab.io/_pages/Download/Download_windows.html and install
+2. Download the 2.7 o̶r̶ ̶3̶.̶4̶ wheel file you need from http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygraphviz
+3. Navigate to the directory that you downloaded the wheel file to
+4. Run pip install pygraphviz-1.3.1-cp27-none-win_amd64.whl
+5. Rejoice
