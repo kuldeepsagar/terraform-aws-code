@@ -10,6 +10,6 @@ terraform {
 }
 
 provider "aws" {
-  profile = "kyniac"
-  region  = "us-west-2"
+  #profile = "kyniac"
+  region  = "us-east-2"
 }
